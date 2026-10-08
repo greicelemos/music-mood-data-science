@@ -36,7 +36,7 @@ Aqui estão algumas das interações que tive com o assistente:
 ## 🛠️ Materiais Gerados
 Usando a própria IA do NotebookLM, gerei os seguintes materiais a partir das minhas fontes (que também estão salvos neste repositório):
 - **Mapa Mental** resumindo os conceitos.
-- **Resumo em Áudio (Podcast)** simulando uma conversa sobre os algoritmos.
+- **Resumo em Áudio (Podcast)** [simulando uma conversa sobre os algoritmos.] (https://notebook.google.com/notebook/79c67bff-ec00-4de6-a995-6a327fca45db/artifact/b1451d26-ad01-4779-8b1d-c8ef6c2ee3ab?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 - **Apresentação de Slides** executiva sobre o tema.
 
 ## 📎 Link do Notebook
